@@ -1,9 +1,9 @@
 package JBTP.View;
 
-import Controller.GameController;
-import Model.Board;
-import Model.Piece;
-import Model.Position;
+import JBTP.Controller.GameController;
+import JBTP.Model.Board;
+import JBTP.Model.Piece;
+import JBTP.Model.Position;
 
 import javax.swing.*;
 import java.awt.*;

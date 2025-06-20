@@ -1,7 +1,7 @@
 package JBTP.Testers;
 
-import Model.*;
-import Model.pieces.*;
+import JBTP.Model.*;
+import JBTP.Model.pieces.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

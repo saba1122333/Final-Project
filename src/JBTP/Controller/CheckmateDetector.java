@@ -1,7 +1,7 @@
 package JBTP.Controller;
 
-import Model.*;
-import Model.pieces.King;
+import JBTP.Model.*;
+import JBTP.Model.pieces.King;
 
 import java.util.ArrayList;
 import java.util.List;

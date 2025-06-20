@@ -1,7 +1,7 @@
 package JBTP.View;
 
-import Model.Board;
-import Model.Position;
+import JBTP.Model.Board;
+import JBTP.Model.Position;
 
 import java.util.List;
 

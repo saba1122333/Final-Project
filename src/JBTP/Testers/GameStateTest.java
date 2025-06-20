@@ -1,10 +1,10 @@
 package JBTP.Testers;
 
-import Model.Board;
-import Model.GameState;
-import Model.PieceColor;
-import Model.Position;
-import Model.pieces.*;
+import JBTP.Model.Board;
+import JBTP.Model.GameState;
+import JBTP.Model.PieceColor;
+import JBTP.Model.Position;
+import JBTP.Model.pieces.*;
 import org.junit.Before;
 import org.junit.Test;
 

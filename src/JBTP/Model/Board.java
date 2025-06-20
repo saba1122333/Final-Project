@@ -1,6 +1,6 @@
 package JBTP.Model;
 
-import Model.pieces.*;
+import JBTP.Model.pieces.*;
 
 import java.util.ArrayList;
 import java.util.List;

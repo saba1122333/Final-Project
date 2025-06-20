@@ -1,8 +1,8 @@
 package JBTP.View;
 
-import Model.Piece;
-import Model.PieceColor;
-import Model.Position;
+import JBTP.Model.Piece;
+import JBTP.Model.PieceColor;
+import JBTP.Model.Position;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,7 +1,7 @@
 package JBTP.Controller;
 
-import Model.*;
-import View.GameWindow;
+import JBTP.Model.*;
+import JBTP.View.GameWindow;
 
 import java.util.ArrayList;
 import java.util.List;

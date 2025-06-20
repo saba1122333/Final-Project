@@ -1,6 +1,6 @@
 package JBTP.View;
 
-import Controller.GameController;
+import JBTP.Controller.GameController;
 
 import javax.swing.*;
 import java.awt.*;
